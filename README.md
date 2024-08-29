@@ -1,0 +1,1 @@
+# Analiza_pozarov_v_naravi-_ZDA_od_leta_1926_do_2019
