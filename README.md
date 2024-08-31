@@ -10,4 +10,4 @@ Ta repozitorij vsebuje projekt v katerem sem analiziral požare v naravi v ZDA o
     <li>Analiziranje potencialnih povezav z požari ter temperaturami</li>
 </ol>
 <h2>Posnetek</h2>
-Povezava do posnetka : 
+Povezava do posnetka : <a href="https://youtu.be/kW-n9c7o8OE">https://youtu.be/kW-n9c7o8OE</a>
